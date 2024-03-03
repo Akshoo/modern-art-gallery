@@ -1,6 +1,6 @@
 # Frontend Mentor - Modern Art Gallery Solution- Premium AfterMarketted🤫
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Art Gallery Website](https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 
@@ -13,15 +13,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots\Screenshot-2024-03-04 020344.png)
-![](screenshots\Screenshot-2024-03-04 020414.png)
-![](screenshots\Screenshot-2024-03-04 020515.png)
+![](screenshots/Screenshot-2024-03-04 020344.png)
+![](screenshots/Screenshot-2024-03-04 020414.png)
+![](screenshots/Screenshot-2024-03-04 020515.png)
 
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+Flowing with the Go
 
 ### Built with
 
@@ -33,4 +34,4 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Akshoo)
+- Frontend Mentor - [@AkshayDev](https://www.frontendmentor.io/profile/Akshoo)
